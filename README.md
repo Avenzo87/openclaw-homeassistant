@@ -413,10 +413,6 @@ You can add multiple Gateway connections if needed:
 - Configure multiple conversation entities
 - Select different agents in different voice assistant configurations
 
-## License
-
-Apache License 2.0 - See LICENSE file for details
-
 ## Credits
 
 - **OpenClaw**: Open-source AI agent system by Anthropic - [openclaw.ai](https://openclaw.ai/)
